@@ -1,0 +1,7 @@
+[2023-11-28 16:47:51,633] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 16:47:51,639] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 16:49:03,652] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:49:03] "POST /Review HTTP/1.1" 200 -
+[2023-11-28 16:49:03,771] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:49:03] "GET /static/pie_chartiphone12pro.png HTTP/1.1" 200 -
+[2023-11-28 16:52:01,927] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading
+[2023-11-28 16:52:01,929] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading
+[2023-11-28 16:52:01,932] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading

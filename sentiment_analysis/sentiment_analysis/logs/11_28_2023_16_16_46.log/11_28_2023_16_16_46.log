@@ -1,0 +1,6 @@
+[2023-11-28 16:16:48,913] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 16:16:48,919] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 16:19:03,620] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\_pytest\\cacheprovider.py', reloading
+[2023-11-28 16:19:03,882] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\_pytest\\fixtures.py', reloading
+[2023-11-28 16:19:04,124] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\_pytest\\config\\__init__.py', reloading
+[2023-11-28 16:19:04,246] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\_pytest\\capture.py', reloading

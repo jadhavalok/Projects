@@ -1,0 +1,32 @@
+[2023-11-30 12:10:06,956] 96 werkzeug - WARNING- * Debugger is active!
+[2023-11-30 12:10:06,963] 96 werkzeug - INFO- * Debugger PIN: 717-147-009
+[2023-11-30 12:11:57,059] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:11:57] "GET / HTTP/1.1" 200 -
+[2023-11-30 12:12:31,115] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:12:31] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-30 12:12:31,266] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:12:31] "GET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-11-30 12:12:31,282] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:12:31] "GET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-11-30 12:12:31,384] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:12:31] "GET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-11-30 12:12:31,420] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:12:31] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-30 12:12:43,707] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:12:43] "GET / HTTP/1.1" 200 -
+[2023-11-30 12:14:04,628] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:14:04] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-30 12:14:04,673] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:14:04] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-30 12:14:04,691] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:14:04] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-30 12:14:04,757] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:14:04] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-30 12:14:30,722] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:14:30] "GET / HTTP/1.1" 200 -
+[2023-11-30 12:16:28,371] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:16:28] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-30 12:16:28,772] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:16:28] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-30 12:16:28,776] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:16:28] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-30 12:16:28,845] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:16:28] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-30 12:16:50,573] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:16:50] "GET / HTTP/1.1" 200 -
+[2023-11-30 12:52:07,897] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:52:07] "GET / HTTP/1.1" 200 -
+[2023-11-30 12:52:09,609] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:52:09] "GET / HTTP/1.1" 200 -
+[2023-11-30 12:52:15,379] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:52:15] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-30 12:52:15,408] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:52:15] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-30 12:52:15,414] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:52:15] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-30 12:52:15,432] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 12:52:15] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-30 13:00:30,898] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:00:30] "GET / HTTP/1.1" 200 -
+[2023-11-30 13:01:30,266] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:01:30] "GET / HTTP/1.1" 200 -
+[2023-11-30 13:02:05,069] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:02:05] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-30 13:02:05,109] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:02:05] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-30 13:02:05,110] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:02:05] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-30 13:02:05,137] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:02:05] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-30 13:02:23,491] 96 werkzeug - INFO-127.0.0.1 - - [30/Nov/2023 13:02:23] "GET / HTTP/1.1" 200 -

@@ -1,0 +1,10 @@
+[2023-11-28 17:09:00,525] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 17:09:00,529] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 17:09:04,625] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:09:04] "GET / HTTP/1.1" 200 -
+[2023-11-28 17:10:01,461] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\matplotlib\\axes\\_base.py', reloading
+[2023-11-28 17:10:01,469] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\matplotlib\\patches.py', reloading
+[2023-11-28 17:10:01,474] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\matplotlib\\colors.py', reloading
+[2023-11-28 17:10:01,482] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:10:01] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-28 17:10:01,636] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:10:01] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-28 17:10:01,640] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:10:01] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-28 17:10:01,727] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:10:01] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

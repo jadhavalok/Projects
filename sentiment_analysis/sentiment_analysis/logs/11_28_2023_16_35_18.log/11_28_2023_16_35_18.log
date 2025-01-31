@@ -1,0 +1,3 @@
+[2023-11-28 16:35:19,996] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 16:35:20,002] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 16:36:30,284] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\matplotlib\\pyplot.py', reloading

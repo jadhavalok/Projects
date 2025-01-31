@@ -1,0 +1,12 @@
+[2023-11-28 12:05:28,872] 96 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 12:05:28,873] 96 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 12:05:28,885] 96 werkzeug - INFO- * Debugger PIN: 717-147-009
+[2023-11-28 12:05:29,386] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:05:29] "GET / HTTP/1.1" 200 -
+[2023-11-28 12:06:37,009] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:06:37] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-28 12:06:37,152] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:06:37] "GET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-11-28 12:06:37,154] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:06:37] "GET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-11-28 12:06:37,201] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:06:37] "GET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-11-28 12:06:37,245] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:06:37] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-28 12:06:58,739] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:06:58] "GET / HTTP/1.1" 200 -
+[2023-11-28 12:07:27,102] 96 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\src\\components\\data_ingestion.py', reloading
+[2023-11-28 12:07:27,103] 96 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\src\\components\\data_ingestion.py', reloading

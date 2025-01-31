@@ -1,0 +1,8 @@
+[2023-11-28 12:18:11,723] 96 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 12:18:11,730] 96 werkzeug - INFO- * Debugger PIN: 717-147-009
+[2023-11-28 12:18:12,043] 96 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 12:18:12,049] 96 werkzeug - INFO- * Debugger PIN: 717-147-009
+[2023-11-28 12:18:41,106] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:18:41] "GET / HTTP/1.1" 200 -
+[2023-11-28 12:20:45,686] 96 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 12:20:45] "POST /Review HTTP/1.1" 200 -
+[2023-11-28 12:28:57,418] 96 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\src\\utils.py', reloading
+[2023-11-28 12:28:57,496] 96 werkzeug - INFO- * Detected change in 'c:\\users\\user\\desktop\\sentiment_analysis\\src\\utils.py', reloading

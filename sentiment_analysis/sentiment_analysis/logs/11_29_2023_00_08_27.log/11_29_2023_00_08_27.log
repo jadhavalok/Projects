@@ -1,0 +1,6 @@
+[2023-11-29 00:08:28,268] 96 werkzeug - WARNING- * Debugger is active!
+[2023-11-29 00:08:28,273] 96 werkzeug - INFO- * Debugger PIN: 717-147-009
+[2023-11-29 00:08:35,842] 96 werkzeug - INFO-127.0.0.1 - - [29/Nov/2023 00:08:35] "GET / HTTP/1.1" 200 -
+[2023-11-29 00:09:01,465] 96 werkzeug - INFO-127.0.0.1 - - [29/Nov/2023 00:09:01] "POST /Review HTTP/1.1" 200 -
+[2023-11-29 00:09:01,670] 96 werkzeug - INFO-127.0.0.1 - - [29/Nov/2023 00:09:01] "GET /static/pie_chartiphone14pro.png HTTP/1.1" 200 -
+[2023-11-29 00:09:36,288] 96 werkzeug - INFO-127.0.0.1 - - [29/Nov/2023 00:09:36] "[33mGET /templates/chart.html HTTP/1.1[0m" 404 -

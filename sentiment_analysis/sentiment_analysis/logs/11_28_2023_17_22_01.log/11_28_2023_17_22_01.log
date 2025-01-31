@@ -1,0 +1,12 @@
+[2023-11-28 17:22:02,350] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 17:22:02,353] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 17:22:35,348] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:22:35] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-28 17:22:35,429] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:22:35] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-28 17:22:35,431] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:22:35] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-28 17:22:35,451] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:22:35] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-28 17:23:54,389] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:23:54] "GET / HTTP/1.1" 200 -
+[2023-11-28 17:24:25,213] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\urllib3\\util\\connection.py', reloading
+[2023-11-28 17:24:25,246] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:24:25] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-28 17:24:25,281] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:24:25] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-28 17:24:25,284] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:24:25] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-28 17:24:25,311] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 17:24:25] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

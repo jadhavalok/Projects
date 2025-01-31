@@ -1,0 +1,25 @@
+[2023-11-28 16:07:34,778] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 16:07:34,784] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 16:08:44,697] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\__init__.py', reloading
+[2023-11-28 16:08:44,749] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\__init__.py', reloading
+[2023-11-28 16:08:44,872] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\plaintext.py', reloading
+[2023-11-28 16:08:44,900] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\api.py', reloading
+[2023-11-28 16:08:44,946] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\util.py', reloading
+[2023-11-28 16:08:45,027] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\tagged.py', reloading
+[2023-11-28 16:08:45,058] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\cmudict.py', reloading
+[2023-11-28 16:08:45,087] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\conll.py', reloading
+[2023-11-28 16:08:45,130] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\chunked.py', reloading
+[2023-11-28 16:08:45,154] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\wordlist.py', reloading
+[2023-11-28 16:08:45,174] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\xmldocs.py', reloading
+[2023-11-28 16:08:45,209] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ppattach.py', reloading
+[2023-11-28 16:08:45,229] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\senseval.py', reloading
+[2023-11-28 16:08:45,255] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ieer.py', reloading
+[2023-11-28 16:08:45,277] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\sinica_treebank.py', reloading
+[2023-11-28 16:08:45,318] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\bracket_parse.py', reloading
+[2023-11-28 16:08:45,350] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\indian.py', reloading
+[2023-11-28 16:08:45,370] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\toolbox.py', reloading
+[2023-11-28 16:08:45,401] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\timit.py', reloading
+[2023-11-28 16:08:45,461] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\ycoe.py', reloading
+[2023-11-28 16:08:45,491] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\rte.py', reloading
+[2023-11-28 16:08:45,516] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\string_category.py', reloading
+[2023-11-28 16:08:45,541] 224 werkzeug - INFO- * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\site-packages\\nltk\\corpus\\reader\\propbank.py', reloading

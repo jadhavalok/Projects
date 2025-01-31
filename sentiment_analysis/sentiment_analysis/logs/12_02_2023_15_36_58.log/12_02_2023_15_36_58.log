@@ -1,0 +1,5 @@
+[2023-12-02 15:37:02,654] 96 werkzeug - WARNING- * Debugger is active!
+[2023-12-02 15:37:02,663] 96 werkzeug - INFO- * Debugger PIN: 717-147-009
+[2023-12-02 15:37:06,829] 96 werkzeug - INFO-127.0.0.1 - - [02/Dec/2023 15:37:06] "GET / HTTP/1.1" 200 -
+[2023-12-02 15:37:47,612] 96 werkzeug - INFO-127.0.0.1 - - [02/Dec/2023 15:37:47] "POST /Review HTTP/1.1" 200 -
+[2023-12-02 15:37:47,743] 96 werkzeug - INFO-127.0.0.1 - - [02/Dec/2023 15:37:47] "GET /static/pie_chartsamsungmobile.png HTTP/1.1" 200 -

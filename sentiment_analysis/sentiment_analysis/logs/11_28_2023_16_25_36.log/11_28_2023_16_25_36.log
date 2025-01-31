@@ -1,0 +1,12 @@
+[2023-11-28 16:25:38,077] 224 werkzeug - WARNING- * Debugger is active!
+[2023-11-28 16:25:38,082] 224 werkzeug - INFO- * Debugger PIN: 120-073-166
+[2023-11-28 16:26:14,490] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:26:14] "GET / HTTP/1.1" 200 -
+[2023-11-28 16:26:31,848] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:26:31] "[35m[1mPOST /Review HTTP/1.1[0m" 500 -
+[2023-11-28 16:26:32,072] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:26:32] "[36mGET /Review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2023-11-28 16:26:32,074] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:26:32] "[36mGET /Review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2023-11-28 16:26:32,178] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:26:32] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-28 16:26:32,193] 224 werkzeug - INFO-127.0.0.1 - - [28/Nov/2023 16:26:32] "[36mGET /Review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2023-11-28 16:26:58,006] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading
+[2023-11-28 16:26:58,007] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading
+[2023-11-28 16:26:58,010] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading
+[2023-11-28 16:26:58,012] 224 werkzeug - INFO- * Detected change in 'C:\\Users\\USER\\Desktop\\sentiment_analysis\\application.py', reloading
